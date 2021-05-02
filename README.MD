@@ -35,6 +35,6 @@ Hey There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=davinash97.davinash97" alt="VisitorBadge" align="center" width="10%">
 
 ## Now-Playing on Spotify
-<a href="/" onclick="return false;">
+<a href="#">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=z9ibhe1uo5xq5rbzduksdvwb3&cover_image=true&theme=novatorem" width="50%">
 </a>
