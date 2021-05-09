@@ -34,8 +34,8 @@ Hey There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <!--Stats-->
 <details>
 <summary><b>My GitHub Stats</b></summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DAvinash97&theme=dark" alt="Github_Stats1" align="left" width="45%">
-<img src="https://github-readme-stats.vercel.app/api?username=davinash97&show_icons=true&theme=gotham" alt="Github_Stats2" align="right" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DAvinash97&theme=dark" alt="Github_Stats1" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=davinash97&show_icons=true&theme=gotham" alt="Github_Stats2" width="45%">
 </details>
 <!--Spotify Now-Playing-->
 <details>
