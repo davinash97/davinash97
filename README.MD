@@ -8,8 +8,8 @@ Hey There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <summary><b>Contact</b></summary>
 <ul>
 <br>
-<li><a href="https://t.me/davinash97">Telegram</a></li>
-<li> <a href="https://forum.xda-developers.com/member.php?u=7782180"> XDA </a></li>
+<li><a target="_blank" href="https://t.me/davinash97">Telegram</a></li>
+<li> <a target="_blank" href="https://forum.xda-developers.com/member.php?u=7782180"> XDA </a></li>
 </details>
 </li>
 </ul>
