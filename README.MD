@@ -7,6 +7,7 @@ Hey There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <details>
 <summary><b>Contact</b></summary>
 <ul>
+<br>
 <li><a href="https://t.me/davinash97">Telegram</a></li>
 <li> <a href="https://forum.xda-developers.com/member.php?u=7782180"> XDA </a></li>
 </details>
@@ -34,8 +35,11 @@ Hey There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <!--Stats-->
 <details>
 <summary><b>My GitHub Stats</b></summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DAvinash97&theme=dark" alt="Github_Stats1" width="45%">
-<img src="https://github-readme-stats.vercel.app/api?username=davinash97&show_icons=true&theme=gotham" alt="Github_Stats2" width="45%">
+<br>
+<ul>
+<li><img src="https://github-readme-streak-stats.herokuapp.com/?user=DAvinash97&theme=dark" alt="Github_Stats1" width="45%"></li>
+<li><img src="https://github-readme-stats.vercel.app/api?username=davinash97&show_icons=true&theme=gotham" alt="Github_Stats2" width="45%"></li>
+</ul>
 </details>
 <!--Spotify Now-Playing-->
 <details>
