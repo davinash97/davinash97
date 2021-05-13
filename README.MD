@@ -37,6 +37,7 @@
                     <li><a href="https://github.com/neel0210/Kakarot_Kernel_M30sdd"> Source </a></li>
                     <li><a href="https://github.com/PrishKernel/PrishKernel_9611/releases"> Prebuilts </a></li>
                 </ul>
+            </details>
         </ul>
         <ul>
             </details>
