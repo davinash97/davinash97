@@ -24,14 +24,14 @@
     <summary><b>Kernels</b></summary>
     <br>
         <ul>
-            <details>
+            <li><details>
             <summary>AEON Kernel <b>For Exynos 7870</b></summary>
                 <ul>
                     <li><a href="https://github.com/davinash97/AEON"> Source </a></li>
                     <li><a href="https://github.com/davinash97/AEON/releases"> Prebuilts </a></li>
                 </ul>
-            </details>
-            <details>
+                </details></li>
+            <li><details>
             <summary>Prish Kernel <b>For Exynos 9611</b><i> (Just small Contributions)</i></summary>
                 <ul>
                     <li><a href="https://github.com/neel0210/Kakarot_Kernel_M30sdd"> Source </a></li>
