@@ -54,6 +54,18 @@
                     <li><a href="https://github.com/neel0210/dynamic">Dynamic Unpacker</a></li>
                 </ul>
             </details>
+            <details>
+            <summary><b>Shell </b><i>(Tried to make it easy for Beginners.)</i></summary>
+                <ul>
+                    <li><a href="https://github.com/davinash97/shell">Shell for beginners</a></li>
+                </ul>
+            </details>
+            <details>
+            <summary><b>Shellgram </b><i>(For Developers, to send Files to Chat/Channel using shell)</i></summary>
+                <ul>
+                    <li><a href="https://github.com/davinash97/shellgram">Shellgram</a></li>
+                </ul>
+            </details>
         </ul>
     </details>
 </ul>
