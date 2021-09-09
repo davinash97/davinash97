@@ -21,7 +21,7 @@
 <br>
 <ul>
     <details>
-    <summary><b>Kernels</b></summary>
+    <summary><b>Kernel(s)</b></summary>
     <br>
         <ul>
             <li><details>
@@ -31,13 +31,13 @@
                     <li><a href="https://github.com/davinash97/AEON/releases"> Prebuilts </a></li>
                 </ul>
                 </details></li>
-            <li><details>
+            <!--li><details>
             <summary>Prish Kernel <b>For Exynos 9611</b><i> (Just small Contributions)</i></summary>
                 <ul>
                     <li><a href="https://github.com/neel0210/Kakarot_Kernel_M30sdd"> Source </a></li>
                     <li><a href="https://github.com/PrishKernel/PrishKernel_9611/releases"> Prebuilts </a></li>
                 </ul>
-            </details>
+            </details></li-->
         </ul>
         <ul>
             </details>
