@@ -72,7 +72,7 @@
 </ul>
 
 <!--Stats-->
-<details>
+<!--details>
 <summary><b>My GitHub Stats</b></summary>
 <br>
     <ul>
@@ -81,7 +81,7 @@
     <ul>
         <img src="https://github-readme-stats.vercel.app/api?username=davinash97&show_icons=true&theme=gotham" alt="Github_Stats2" width="45%">
     </ul>
-</details>
+</details-->
 
 <!--Spotify Now-Playing-->
 <details>
