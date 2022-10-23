@@ -1,10 +1,10 @@
 <!--Git Pic-->
-<img align="right" src="https://avatars.githubusercontent.com/u/56125142?v=4" width="25%"/>
+<a href="#"><img align="right" src="https://avatars.githubusercontent.com/u/56125142?v=4" width="25%"/></a>
 
 <!--About me-->
 <h1>About Me</h1>
-<p>Hey There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20"> Avinash here. I am Tech enthusiast, Learning Some Programming Languages (Self-Learning). For now can write "Hello World" in <img height="20" src="https://www.joshinnovations.com/adminstyles/img/gallery/1612173696.png">C, <img height="20" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/> C++
-    and <img height="20" src="https://sonhasoftware.com/wp-content/uploads/2021/07/python.png"> Python (More Coming Soon). Learning a lot through Open-source Community.</p>
+<p>Hey There! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></a> Avinash here. I am Tech enthusiast, Learning Some Programming Languages (Self-Learning). For now can write "Hello World" in <a href="#"><img width="20" src="https://www.joshinnovations.com/adminstyles/img/gallery/1612173696.png"></a>C, <a href="#"><img width="20" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/></a> C++
+    and <a href="#"><img width="20" src="https://sonhasoftware.com/wp-content/uploads/2021/07/python.png"></a> Python (More Coming Soon). Learning a lot through Open-source Community.</p>
 
 <!-- Contact -->
 <details>
