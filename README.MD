@@ -32,13 +32,6 @@
                     <li><a href="https://github.com/davinash97/AEON/releases"> Prebuilts </a></li>
                 </ul>
                 </details></li>
-            <!--li><details>
-            <summary>Prish Kernel <b>For Exynos 9611</b><i> (Just small Contributions)</i></summary>
-                <ul>
-                    <li><a href="https://github.com/neel0210/Kakarot_Kernel_M30sdd"> Source </a></li>
-                    <li><a href="https://github.com/PrishKernel/PrishKernel_9611/releases"> Prebuilts </a></li>
-                </ul>
-            </details></li-->
         </ul>
         <ul>
             </details>
@@ -70,27 +63,6 @@
         </ul>
     </details>
 </ul>
-
-<!--Stats-->
-<!--details>
-<summary><b>My GitHub Stats</b></summary>
-<br>
-    <ul>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DAvinash97&theme=dark" alt="Github_Stats1" width="45%">
-    </ul>
-    <ul>
-        <img src="https://github-readme-stats.vercel.app/api?username=davinash97&show_icons=true&theme=gotham" alt="Github_Stats2" width="45%">
-    </ul>
-</details-->
-
-<!--Spotify Now-Playing-->
-<details>
-<br>
-<summary><b>Now-Playing on Spotify</b></summary>
-    <a href="#">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=z9ibhe1uo5xq5rbzduksdvwb3&cover_image=true&theme=novatorem" width="50%">
-    </a>
-</details>
 
 <!--Visitor Badge-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=davinash97.davinash97" alt="VisitorBadge" align="right" width="10%">
