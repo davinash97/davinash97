@@ -7,16 +7,16 @@
     and <a href="#"><img width="20" src="https://sonhasoftware.com/wp-content/uploads/2021/07/python.png"></a> Python (More Coming Soon). Learning a lot through Open-source Community.</p>
 
 <!-- Contact -->
-<details>
-<summary><b>Contact</b></summary>
-<br>
+<!-- <details>
+<summary> -->
+<b>Contact</b>
     <ul>
-        <li><a href="https://t.me/davinash97">Telegram</a></li>
+        <li><a href="https://t.me/davinash1997">Telegram</a></li>
         <li><a href="https://forum.xda-developers.com/member.php?u=7782180"> XDA </a></li>
     </ul>
-</details>
+<!-- </details> -->
 
-<!-- Contributions-->
+<!-- Contributions
 <details>
 <summary><b>My Contributions</b></summary>
 <br>
@@ -63,6 +63,6 @@
         </ul>
     </details>
 </ul>
-
+-->
 <!--Visitor Badge-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=davinash97.davinash97" alt="VisitorBadge" align="right" width="10%">
