@@ -3,8 +3,8 @@
 
 <!--About me-->
 <h1>About Me</h1>
-<p>Hey There! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></a> Avinash here. I am Tech enthusiast, Learning Some Programming Languages (Self-Learning). For now can write "Hello World" in <a href="#"><img width="20" src="https://www.joshinnovations.com/adminstyles/img/gallery/1612173696.png"></a>C, <a href="#"><img width="20" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/></a> C++
-    and <a href="#"><img width="20" src="https://sonhasoftware.com/wp-content/uploads/2021/07/python.png"></a> Python (More Coming Soon). Learning a lot through Open-source Community.</p>
+<p>Hey There! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></a> Avinash here. I am Tech enthusiast, Learning Some Programming Languages (Self-Learning). Languages known so far: <a href="#"><img width="20" src="https://www.joshinnovations.com/adminstyles/img/gallery/1612173696.png"></a>C, <a href="#"><img width="20" src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png"/></a> C++, <a href="#"><img src="https://img.favpng.com/3/7/21/javascript-node-js-computer-icons-logo-application-software-png-favpng-ebFcx9xnNQyPYnT2RTy7PWBdV.jpg" alt="js_logo" width="15"></a> Js, <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="20"></a> Java
+    and <a href="#"><img width="20" src="https://sonhasoftware.com/wp-content/uploads/2021/07/python.png"></a> Python (Intermediate Stage). Learning a lot through Open-source Community.</p>
 
 <!-- Contact -->
 <!-- <details>
