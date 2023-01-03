@@ -65,4 +65,4 @@
 </ul>
 -->
 <!--Visitor Badge-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=davinash97.davinash97" alt="VisitorBadge" align="right" width="10%">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=davinash97.davinash97" alt="Visitor-Badge" align="right" width="10%">
