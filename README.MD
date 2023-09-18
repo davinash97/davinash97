@@ -1,4 +1,5 @@
 <!--Git Pic-->
+
 <a href="#"><img align="right" src="https://avatars.githubusercontent.com/u/56125142?v=4" width="25%"/></a>
 
 <!--About me-->
@@ -9,11 +10,14 @@
 <!-- Contact -->
 <!-- <details>
 <summary> -->
+
 <b>Contact</b>
-    <ul>
-        <li><a href="https://t.me/davinash1997">Telegram</a></li>
-        <li><a href="https://forum.xda-developers.com/member.php?u=7782180"> XDA </a></li>
-    </ul>
+
+<ul>
+    <li><a href="https://t.me/davinash1997">Telegram</a></li>
+    <li><a href="https://forum.xda-developers.com/member.php?u=7782180"> XDA </a></li>
+</ul>
+
 <!-- </details> -->
 
 <!-- Contributions
