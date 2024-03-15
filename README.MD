@@ -12,8 +12,8 @@ Hello<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 ### Connect with me:
 <a href="https://linkedin.com/in/davinash97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davinash97" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/davinash97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davinash97" height="30" width="40" /></a>
-<a href="https://t.me/daivnash97" target="blank" alt="telgram" ><img src="https://raw.githubusercontent.com/davinash97/davinash97.github.io/master/src/assets/svg/telegram.svg" height="30" width="40" align="center"/></a>
-<a href="mailto://davinash97.work@gmail.com" target="blank" alt="telgram" ><img src="https://raw.githubusercontent.com/davinash97/davinash97.github.io/master/src/assets/svg/gmail.svg" height="30" width="40" align="center"/></a>
+<a href="https://t.me/davinash97" target="blank" alt="telgram" ><img src="https://raw.githubusercontent.com/davinash97/davinash97.github.io/master/src/assets/svg/telegram.svg" height="30" width="40" align="center"/></a>
+<a href="mailto:davinash97.work@gmail.com" target="blank" alt="telgram" ><img src="https://raw.githubusercontent.com/davinash97/davinash97.github.io/master/src/assets/svg/gmail.svg" height="30" width="40" align="center"/></a>
 [XDA](https://forum.xda-developers.com/member.php?u=7782180)
 
 <br>
