@@ -2,7 +2,7 @@
 
 <!-- About me -->
 ## About Me
-Hello<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></a> I'm a Senior-Year Student pursuing a Bachelor's in Computer Science Engineering at RSR Rungta College of Engineering & Technology, Bhilai, Chhattisgarh -India. Passionate about tech, and Learning from Open Source, trying to give back the most. I bring a strong academic foundation and practical project experience to the table. Explore my portfolio for more. Thank you!
+Hello<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></a> I'm a 2024 graduate in B.Tech - Computer Science Engineering at RSR Rungta College of Engineering & Technology, Bhilai, Chhattisgarh -India. Passionate about tech, and Learning from Open Source, trying to give back the most. I bring a strong academic foundation and practical project experience to the table. Explore my portfolio for more. Thank you!
 
 <hr>
 
